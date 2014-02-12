@@ -1,0 +1,11 @@
+==================================
+20140212 Saitovo.data Some modifications
+3577 has no zone connections
+Data file has AQUDIMS
+New MULTPV = 60
+SCALECRS
+SOWCR = MAX(SOWCR, 0.01)
+COMPRROCK = 5E-5
+Has no aquifers (AQUCT)
+New history
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@

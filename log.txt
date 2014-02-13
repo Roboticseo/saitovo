@@ -9,3 +9,11 @@ COMPRROCK = 5E-5
 Has no aquifers (AQUCT)
 New history
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+
+==================================
+20140213 Saitovo.data Some modifications
+224BTM has no water connections to lower layer
+New MULTPV = 1000
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
